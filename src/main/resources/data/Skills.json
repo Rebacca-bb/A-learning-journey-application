@@ -1,0 +1,48 @@
+{
+	"2020213137":{
+		"skills":{
+			"English":[
+				"Ielts grade 7",
+				"TOEFL 100"
+			],
+			"math":[
+				"2020 math contest 1st award",
+				"2021 math contest 2nd award",
+				"2022 math contest 3rd award"
+			],
+			"Science Research":[],
+			"Project Experience":[
+				"Wechat application 'NoPlanB' and get the 1st award in Beijing"
+			]
+		}
+	},
+	"Math Modeling":{
+		"Type":"",
+		"Score":"",
+		"Description":""
+	},
+	"2020213399":{
+		"skills":{
+			"English":[],
+			"math":[],
+			"Science Research":[],
+			"Project Experience":[]
+		}
+	},
+	"2020211919":{
+		"skills":{
+			"English":[],
+			"math":[],
+			"Science Research":[],
+			"Project Experience":[]
+		}
+	},
+	"2020213319":{
+		"skills":{
+			"English":[],
+			"math":[],
+			"Science Research":[],
+			"Project Experience":[]
+		}
+	}
+}

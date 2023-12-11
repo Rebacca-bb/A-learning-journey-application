@@ -1,0 +1,45 @@
+[
+	{
+		"Math Modeling":[
+			{
+				"Type":"2020 math contest",
+				"Score":"1st award",
+				"Description":"great"
+			},
+			{
+				"Type":"123",
+				"Score":"ads",
+				"Description":"qwe123"
+			}
+		],
+		"English Competition":[
+			{
+				"Type":"Itels",
+				"Score":"7.0",
+				"Description":"great"
+			}
+		],
+		"Software Production":[
+			{
+				"Type":"123",
+				"Score":"456",
+				"Description":"789"
+			}
+		],
+		"username":"2020213137"
+	},
+	{
+		"English Competition":[
+			{
+				"Type":"2022 English contest",
+				"Score":"100",
+				"Description":"great"
+			}
+		],
+		"username":"2020213319"
+	},
+	{
+		"username":"2020211919"
+	},
+	{"$ref":"$[0]"}
+]

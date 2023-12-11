@@ -1,2 +1,1 @@
-# A-learning-journey-application
-A learning journey application
+# Software_group1

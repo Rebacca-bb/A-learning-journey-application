@@ -1,0 +1,26 @@
+[
+	{
+		"password":"1234567",
+		"studentAccount":"2020213137"
+	},
+	{
+		"password":"1234568",
+		"studentAccount":"2020214568"
+	},
+	{
+		"password":"1234567",
+		"studentAccount":"2020213319"
+	},
+	{
+		"password":"114514",
+		"studentAccount":"2020211919"
+	},
+	{
+		"password":"12345678",
+		"studentAccount":"2020213399"
+	},
+	{
+		"password":"testPass",
+		"studentAccount":"testUser"
+	}
+]
